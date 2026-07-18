@@ -1,0 +1,4 @@
+String functions:
+----------------
+String s = "hello";
+char[] x = s.toCharArray();

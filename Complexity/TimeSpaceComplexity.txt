@@ -1,0 +1,21 @@
+- Time complexity -> Growth in runtime of algo wrto input
+- Bytes are stored in RAM
+- RAM has value and address.
+
+Arrays:
+--------
+- Arrays are going to be contagious
+- Arrays are of fixed size
+- In static arrays, you specify the size
+
+Stack:
+-------
+- push
+- pop
+- peek
+
+
+LinkedList:
+----------
+- Single linked list: It has value and next node.
+- Double linked list: It has value, previous and next node
